@@ -1,6 +1,6 @@
 git blame -L 5,5 foo -b develop#@zhangxingnan
 git blame -L 5,5 develop foo#@gongjingying
-git blame -L 5,5 foo  #@zhangjiaxiang
+git blame -L 5,5 -b develop foo  #@zhangjiaxiang
 git blame -L 5,5 -b develop foo#@lihe
 git annotate -L5,5 develop foo  #@wangkeyi
 git blame -L 5 foo	#@zhangbaoliang
