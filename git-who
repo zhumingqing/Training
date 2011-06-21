@@ -7,5 +7,5 @@ git blame -L 5 foo	#@zhangbaoliang
 git blame -L 5 foo
 git blame develop foo -L 5,5#@zhaoxiongfei
 git blame develop foo -L 5,+1 #@sunhaoyan
-git blame -L 5,5 develop foo#@zhaoyupei
+git blame -L 5,5 develop foo #@zhaoyupei
 git blame -L 5,5 foo develop	#@ludanfeng
