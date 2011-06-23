@@ -1,0 +1,214 @@
+1455556 add a new file 'git-config' by CC
+19e32cd CC's new feature comes
+dec83ca develop merging
+0ac2a07 git flow init
+3ab5e61 stone submit
+bd3be67 abc
+e9569b4 abcde
+95d83a5 trim foo
+5777aef again
+60bd5d6 by idol
+14dadf1 Modified again by Candy Cong
+799d204 foo
+d5d487f Merge branch 'master' of github.com:admaster/git-test
+1ece876 testing four
+289f887 commit three
+7f1495e remove some blank lines
+3779fd4 commit two file
+42451fd commit file foo
+0ebc24d Signed-off-by: Larry Lv <lvguiqiang@admaster.com.cn>
+a33f6cc Merge branch 'master' of github.com:admaster/git-test
+4b41dee merged
+cdd987e edited by idol
+e6037aa foo file set
+6b0df9c xtt2
+e1ee905 xtt
+f209b2a foo modified by Candy Cong
+4ace0c2 Signed-off-by: larry <lvguiqiang@admaster.com.cn>
+6672eef foo edited by Candy Cong
+c9b3f3b commit
+bfebe51 XieChao commit hahaha
+d66af3d first commit
+184edeb CC's first test in GIT world
+1fee393 foo edited by mars
+1e6ad8f Merge branch 'feature/zyptest' into develop
+c12972c 小修改
+38ced0f new line
+25e53db Merge branch 'develop' of github.com:admaster/git-test into develop
+f001f2c modify git-who 去掉失误的修改
+37b3572 Merge branch 'develop' of github.com:admaster/git-test into develop
+761650f Merge branch 'develop' of github.com:admaster/git-test into develop
+931af59 解决冲突
+9abdd5e rm git-log by gjy
+fd47207 重新cherery-pick
+36024ee Merge branch 'develop' of github.com:admaster/git-test into develop
+2afc179 删除测试文件
+68a8bb7 Merged conflict
+13a033f Added committer who changed responding line
+2abc6e9 Added command statement to find who changed line 5 of foo
+8d8e492 解决pull 的冲突
+b897b1b 合并 git-who
+f52185e Merge branch 'develop' of github.com:admaster/git-test into develop
+236fc34 blame 参数没有空格
+50235bc rm feature01
+0cc66ed test feature01
+046f7d0 Merge branch 'develop' of github.com:admaster/git-test into develop
+794b2eb submit modify git-who
+f3a9eef Merge branch 'develop' of github.com:admaster/git-test into develop
+a2c2ce5 Merge branch 'develop' of github.com:admaster/git-test into develop
+a3983f7 cherry-pick 冲突
+a3686b9 再一次解决冲突in zhangjx
+1c3a2a8 解决冲突in git-config
+255dfd5 解决冲突
+ea18fcf Merge branch 'develop' of github.com:admaster/git-test into develop
+ef77aba Comments from Hudie
+5c92f2d 处理冲突
+52b12b7 merge two times in zhangjx
+4616a12 解决冲突
+33d4dbc 解决pull develop冲突
+3901e98 Merge branch 'develop' of github.com:admaster/git-test into develop
+5e17e71 处理冲突
+8b67a1a 合并个人分区文件到develop分区
+0184a1f add git-who (cherry picked from commit ab5736c6ba00d1f7d6c0366a33125ab9cd802fa1)
+2775470 edit #@gongjingying
+cc6bd1c merge git-who in zhangjx
+321c173 Merge branch 'develop' of github.com:admaster/git-test into develop
+e8947e2 Merge branch 'develop' of github.com:admaster/git-test into develop
+4d12c37 merge from master
+566f66a 把blame结果换成语句
+4729f5f Merge branch 'master' of github.com:admaster/git-test
+603a43d change 5th line of foo
+b40a5d6 解决冲突
+3abc782 Merge branch 'develop' of github.com:admaster/git-test into develop
+54662f2 merge git-who in zhangjx
+57ddabd 添加查询行修改命令
+98c88f8 git-who conflict solvd by gjy
+db8d905 amend exercise 3 with tech review required
+c7ca2c1 Merge branch 'tmp' into develop。日，我特么容易么我！
+884fa02 打补丁
+24ed595 make a mark at the end of the only line
+bed3dc1 annotate vs blame
+64b24f6 change again
+d6dd10b prepare to push
+ce018b6 change
+7eaf57d 丢了#@zhaoyupei
+33a3be3 解决冲突，发现新问题
+289c816 add git-who
+58fa928 modify git-who in zhangjx
+95e65b0 重新cherry-pick git who文件
+9cbc27e edit again again
+31d14c3 重新修改git-who
+4f15ebd git who conflict
+b02a132 重新修改git-who
+8e491bb 修改git who 之前的内容错了
+5e05db5 apply develop
+e7ecc8f 解决冲突，合并zhaoyupei分支下的git-who
+6a08437 edit git-who
+ade3976 Merge branch 'sunhaoyan' of github.com:admaster/git-test into develop
+f8ed2e4 添加git-who文件
+4167ef5 gongjingying added #@[gongjingying] at the end of every line
+1f4f696 commit the git-who
+84c6bf0 再一次解决冲突
+fd34e6a add #@sunhaoyan
+78e5d77 add file git-who
+8c05006 add #@sunhaoyan
+1cac677 add file git-who
+a342640 rm local file git-config,which is not in master branch
+fa8308d confilict with local file, commit again
+fc6c654 3 files modified, i need commit!
+7ed8fd7 add file git-log
+12b0e60 添加git-log文件，记录tonsh的本地develop分支log
+da19682 process conflict
+97ba364 conflict again gjy solved
+e4151ec merge origin
+9e8f83e 解决master分支冲突
+c0ffb9e 解决develop 下foo文件冲突
+5ada5cd 解决冲突
+de304b7 解决foo文件冲突
+7cd5a5c merge from master
+268bb25 add exercise 3
+9e2c41b Merge branch 'develop' of github.com:admaster/git-test into develop
+85433f5 Merge branch 'feature/demo' into develop
+333eb0e yet another line for non fast forward
+75a75ba try to non-fast-forward
+f0d8d22 Merge branch 'develop' of github.com:admaster/git-test into develop
+716e776 gongjingying's git conifg
+08dd674 Merge branch 'develop', remote branch 'origin/develop' into develop
+cf0f73d 添加了一条新闻记录
+2e8b047 Merge branch 'git-second'
+46cb9de gongjingying add news on git-second
+609ed50 Merge branch 'develop' of github.com:admaster/git-test into develop
+f2b10c1 process conflicts
+de585ad 合并代码
+3943705 添加新闻文件
+4d44417 add a big news
+3f3b68d important notice
+f31be0c merge from peter
+ec07f18 Merge branch 'develop' of github.com:admaster/git-test into develop
+396eb40 Merge branch 'develop' of github.com:admaster/git-test into develop
+99c1a59 Merge remote branch 'origin/develop' into develop
+3a4cf5b Merge from master
+8f0fee6 做个测试
+cbcefbf Merge branch 'develop' of github.com:admaster/git-test into develop
+b9ffa08 误操作删除的文件，恢复
+8e82325 add one line
+89a88ad add message
+29481a6 Merge branch 'develop' of github.com:admaster/git-test into develop
+c34bc32 Merge branch 'develop' of github.com:admaster/git-test into develop
+f518bcd merge keyi
+29e547d merge
+0041a85 换一句slogan.
+01184b1 Merge remote branch 'origin/develop' into develop
+88ebb1b 临时删除
+dd979e0 解决冲突
+2be183d Merge branch 'develop', remote branch 'origin/develop' into develop Nothing changed,but show conflict. Conflicts: 	git-rocks
+7119abc gjy branch solve confict
+11d65ed merge conflict
+e1d7ca5 This is for feature branch.
+67733dc gjy branch for gjy_01
+0260005 gjy branch test
+a54cf41 lihe send something
+57acad5 Merge branch 'develop' of github.com:admaster/git-test into develop
+c80e4ee gong conflict solved
+72ef8b7 gongjingying modifies name and email
+19732b1 Merge branch 'master' of github.com:admaster/git-test into develop
+f990957 Merge branch 'master' of github.com:admaster/git-test
+055a04f The first homework.and append something.
+0463c56 sunhaoyan git config info
+38113e0 解决冲突
+b7dafba add news
+6de3742 add file git-second
+f97cbdf add news
+ba90c46 添加git-config配置文件
+45cf9d7 发表重要讲话解决冲突后的应该位于NBA新闻后面
+7fbc868 解决冲突
+39febfc add new file git-rocks to git-second feature
+70ed042 解决冲突
+5029915 nba热点新闻
+3ca6abd add exercise 2
+bde938f 修改姓名
+e0ecbf9 张保良的练习
+80c8f63 Merge branch 'master' of github.com:admaster/git-test
+b2a1969 	modified:   foo
+1993f52 zhaoyp modify FAQ line
+33fcb3a in zhangjx
+cc6ec0f Merge branch 'master' of github.com:admaster/git-test
+42cc3fc in aa
+c50be71 Test.
+3b92d70 try merge
+f6e78f7 Merge branch 'master' of github.com:admaster/git-test
+3d60a0c Merged
+02a020a Comment from Hudie
+939766f lihe add somthing
+4dd89a6 Added one comment
+6d38984 This is a test.
+4d64599 gjy modified
+ebe65c8 zhaoyp add faq in foo
+ef9bec9 hello world
+6561028 again add line
+cc44b12 test author:redstone
+7283c1e 第一次提交。
+a67cf52 add exercise 1
+75a5a89 add some tips about TODO
+f449664 add quick start
+84cd5f7 initial commit
