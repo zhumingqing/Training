@@ -1,2 +1,10 @@
+The wiki.php.net box was compromised and the attackers were able to collect wiki account credentials. No other machines in the php.net infrastructure appear to have been affected. Our biggest concern is, of course, the integrity of our source code. We did an extensive code audit and looked at every commit since 5.3.5 to make sure that no stolen accounts were used to inject anything malicious. Nothing was found. The compromised machine has been wiped and we are forcing a password change for all svn accounts.
+gongjinying NEWS
+
+Mars Obama slides toward Afghan exit
+Local news by Candy Cong
+=======
 This is a news name 'show me the money'
 外滩新地标：十六铺老码头华丽转身
+
+CCTV news by Candy Cong
