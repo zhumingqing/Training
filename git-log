@@ -1,3 +1,20 @@
+commit 5813822903ae9e3544cd4cf54f8e9ad36bb01386
+Merge: 7690079 0e15737
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Tue Jun 28 17:59:34 2011 +0800
+
+    update git-who
+
+commit 76900796e76ac9701a24762c5779d8bd6a231057
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Tue Jun 28 16:52:16 2011 +0800
+
+    for update git who add autor
+    
+    Conflicts:
+    
+    	git-who
+
 commit 0e157379c4d7df423dc1c01812968b029b37f659
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
 Date:   Tue Jun 28 14:58:37 2011 +0800
@@ -15,6 +32,12 @@ Author: Larry Lv <lvguiqiang@admaster.com.cn>
 Date:   Tue Jun 28 14:54:08 2011 +0800
 
     for git-who
+
+commit 228bb1afbbd1454e24be045616b576a3e3d4d924
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Tue Jun 28 12:11:34 2011 +0800
+
+    for update log oneline
 
 commit 9a79e7efc7cc31f08e3985ec64420776a96868f9
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
