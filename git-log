@@ -1,3 +1,15 @@
+commit b3bb25b35c6aa0f0eb52e143f683818cc9dd01de
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Tue Jun 28 23:27:36 2011 +0800
+
+    for gitignore
+
+commit 32612c73d7ec1a0fccad3530263af0b361b23663
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Tue Jun 28 18:23:39 2011 +0800
+
+    for commit
+
 commit 5813822903ae9e3544cd4cf54f8e9ad36bb01386
 Merge: 7690079 0e15737
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
