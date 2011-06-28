@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 git blame -L 5,5 develop foo
 #@chenyuanqiang
 git blame -L s,s develop foo#@xiongtingting
 git blame -L 5,5 develop foo #@congbailing
-=======
-289f887a (ZheChao Xu 2011-06-22 17:22:54 +0800 5) are you OK!!yes,i am#@lvguiqiang
->>>>>>> 0e15737... for update git who add autor
+git blame -L 5,5 s foo#@lvguiqiang
