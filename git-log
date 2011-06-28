@@ -1,1585 +1,248 @@
-commit 0e157379c4d7df423dc1c01812968b029b37f659
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Tue Jun 28 14:58:37 2011 +0800
-
-    for update git who add autor
-
-commit 6568b70644e97ed53201b0989a14cb0080764ed0
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Tue Jun 28 14:57:32 2011 +0800
-
-    update git who
-
-commit b01c30fdb41b4fc9f1f87540323ef6c014a57581
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Tue Jun 28 14:54:08 2011 +0800
-
-    for git-who
-
-commit 9a79e7efc7cc31f08e3985ec64420776a96868f9
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Tue Jun 28 12:11:34 2011 +0800
-
-    for update log oneline
-
-commit 634dfa8105a2231a32aae7e73a59b72dfae94a10
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Tue Jun 28 12:00:53 2011 +0800
-
-    update
-
-commit 9fd6b95a9cc7542060c36f0d100aceaed602f44d
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Tue Jun 28 11:28:40 2011 +0800
-
-    for add
-
-commit 06e40c11c8920d45a9c797de81b21ad1e26801f4
-Merge: 879cc30 48b5b0e
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Fri Jun 24 18:00:50 2011 +0800
-
-    git-who
-
-commit 879cc305e246b17fd45bf75a05e46b1620563720
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Fri Jun 24 17:49:18 2011 +0800
-
-    git-who
-
-commit ea06b0e140ff51cc830097ee6c40addeb35c14d1
-Merge: 44a8722 fa598db
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Fri Jun 24 13:50:45 2011 +0800
-
-    Merge branch 'feature/xiongtingting' into develop
-
-commit 48b5b0edb32885a021024890eff3bf7eca90a099
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Fri Jun 24 13:43:39 2011 +0800
-
-    git-who is committed
-
-commit fa598dbb75605214d5603a76f1116edeeac22f34
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Fri Jun 24 12:34:54 2011 +0800
-
-    git-log is committed by xiongtingting
-
-commit 3631ce45f01ae8fa42e4daa00c24a0b6f3e73965
-Author: unknown <002@.(none)>
-Date:   Fri Jun 24 11:58:44 2011 +0800
-
-    beijinjiangyu
-
-commit b7e75d8c0023a0a847271cff58a3c818b0536738
-Merge: 5816340 44a8722
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Fri Jun 24 11:31:04 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 581634020d02f960b1874806a77ee7283cd9ae5b
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Fri Jun 24 11:24:57 2011 +0800
-
-    git-rocks is committed by Candy Cong
-
-commit 44a8722355604a675031cb38b3f6023cc9c77999
-Merge: 1397312 69f96c6
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Fri Jun 24 11:17:55 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 940fda91471e7ee0caaaa21aac7521e9b445fd9d
-Merge: 84460f5 69f96c6
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Fri Jun 24 11:13:45 2011 +0800
-
-    git-second committed by Candy Cong
-
-commit 1397312afab528ce558ce29a461b9355ce60e75d
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Fri Jun 24 10:50:15 2011 +0800
-
-    git-rocks
-
-commit 84460f5039099e67263a1d8c4a6db391145e383b
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Fri Jun 24 10:38:25 2011 +0800
-
-    add new file
-
-commit ecb7c1e4d3f4aa1202fb473d92727b48ed424f8b
-Author: unknown <Candycong@.(none)>
-Date:   Fri Jun 24 10:16:19 2011 +0800
-
-    renew the commit
-
-commit 69f96c631ae113e0e1a7e4d14e130d3435573e41
-Author: Yiyong Lu <luyiyong@admaster.com.cn>
-Date:   Fri Jun 24 10:30:39 2011 +0800
-
-    new feature
-
-commit 678aea18746ede3833c372a7cfb38583f477a0e2
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 22:04:12 2011 +0800
-
-    add a file
-
-commit 1d8d2940d9ec4f271871a80705f8d6ddcf866976
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 22:00:05 2011 +0800
-
-    edit git-who file
-
-commit a9f363be1e1c4f6f6e64ea6d6885e2ccd7dd8aa9
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 21:47:30 2011 +0800
-
-    add my name to git-who file
-
-commit eefc67075dc52b82ce63bc63c557d9b389fe0134
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 21:46:19 2011 +0800
-
-    add a file named git-who
-
-commit 8bc2b3cc67366220173b46958cb3c267fb98cb63
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 18:41:30 2011 +0800
-
-    Add a new file named git-rocks
-
-commit 370455ce6d7bd71571d6b0ce6425a50dbfba7842
-Merge: e4c2d32 fbe81a5
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 18:35:16 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit fbe81a572ec4928e868a1cad82055a0e428baf54
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 18:16:33 2011 +0800
-
-    conflict resolved
-
-commit e4c2d32f0097ca91c3a68b347fde1d309cac7b9b
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Thu Jun 23 18:15:03 2011 +0800
-
-    test-file
-
-commit aebab2f2b3b08217fe79c075c8e2a7347e872dc8
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 17:43:43 2011 +0800
-
-    resolve conflict
-
-commit dddbfe5e2c333e121017965a94455064b3564c79
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 16:15:32 2011 +0800
-
-    save git-log
-
-commit 1455556bf92d3ed059b35f24d333626ab6fb0e70
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 15:53:17 2011 +0800
-
-    add a new file 'git-config' by CC
-
-commit 19e32cdd51bc7582d612add4fd68233aef4a8b3e
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 15:02:40 2011 +0800
-
-    CC's new feature comes
-
-commit dec83cae52099e466c2832250bc6e2146dd0dd00
-Merge: 0ac2a07 1e6ad8f
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 14:56:52 2011 +0800
-
-    develop merging
-
-commit 0ac2a07c1c84f761cea81fcd9e31893105b9959a
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Thu Jun 23 14:52:50 2011 +0800
-
-    git flow init
-
-commit 3ab5e61f79e7672a09bf6e5bdb527823ca9f146c
-Author: Stone Shi <shilei@admaster.com.cn>
-Date:   Wed Jun 22 19:37:18 2011 +0800
-
-    stone submit
-
-commit bd3be676628e05893466ec21f16a5a5ab32e0c4a
-Merge: e9569b4 95d83a5
-Author: Ivan Shen <shenxiyao@admaster.com.cn>
-Date:   Wed Jun 22 18:48:26 2011 +0800
-
-    abc
-
-commit e9569b4597d651594cdfd659b6cc643e3cedf96a
-Author: Ivan Shen <shenxiyao@admaster.com.cn>
-Date:   Wed Jun 22 18:46:14 2011 +0800
-
-    abcde
-
-commit 95d83a50f9ada75996bc86e80166b900f7f2c7a4
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Wed Jun 22 18:18:56 2011 +0800
-
-    trim foo
-
-commit 5777aeff49d286d63acea9b181da66d7501b9e95
-Merge: 60bd5d6 14dadf1
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Wed Jun 22 18:02:19 2011 +0800
-
-    again
-
-commit 60bd5d6e8a60c178f86de8801b42dc945c32dfb2
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Wed Jun 22 17:59:12 2011 +0800
-
-    by idol
-
-commit 14dadf134f3cea0b2ec6ddf74a0930760695449d
-Merge: 799d204 1ece876
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Wed Jun 22 17:56:37 2011 +0800
-
-    Modified again by Candy Cong
-
-commit 799d2044068367e38e842c3bca36c47c8861b884
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Wed Jun 22 17:46:25 2011 +0800
-
-    foo
-
-commit d5d487f28f876638f132b38fd5c09c795ba6bf78
-Merge: 4b41dee 7f1495e
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Wed Jun 22 17:43:49 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-
-commit 1ece876d37b7799552b6d07c98b589c0ea5ca443
-Merge: 289f887 7f1495e
-Author: ZheChao Xu <xuzhechao@admaster.com.cn>
-Date:   Wed Jun 22 17:43:32 2011 +0800
-
-    testing four
-
-commit 289f887a8e9bb88f3ff5f35cbb4a5e383c24aa3b
-Author: ZheChao Xu <xuzhechao@admaster.com.cn>
-Date:   Wed Jun 22 17:22:54 2011 +0800
-
-    commit three
-
-commit 7f1495eb05e51acc49534d2d8d994f65bafde519
-Merge: 6b0df9c 0ebc24d
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Wed Jun 22 17:21:41 2011 +0800
-
-    remove some blank lines
-
-commit 3779fd47636e6abfa95fd71ce193836cbbcffba5
-Author: ZheChao Xu <xuzhechao@admaster.com.cn>
-Date:   Wed Jun 22 17:21:33 2011 +0800
-
-    commit two file
-
-commit 42451fd34f82a1323a58bd0ac12c761af9add42b
-Merge: e6037aa a33f6cc
-Author: ZheChao Xu <xuzhechao@admaster.com.cn>
-Date:   Wed Jun 22 17:17:43 2011 +0800
-
-    commit file foo
-
-commit 0ebc24d63a7c8d064c2adc3fe22a1ff24442a04a
-Author: Larry Lv <lvguiqiang@admaster.com.cn>
-Date:   Wed Jun 22 17:14:12 2011 +0800
-
-    Signed-off-by: Larry Lv <lvguiqiang@admaster.com.cn>
-
-commit a33f6cc8a5fd94b224ee0a159f7bcc6960ea3334
-Merge: cdd987e 4b41dee
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Wed Jun 22 17:10:15 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-
-commit 4b41deef6f35d0b089eb33a787358a9c5eef4682
-Merge: f209b2a 6b0df9c
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Wed Jun 22 17:09:28 2011 +0800
-
-    merged
-
-commit cdd987e7e56660dd876f32d6268a85571da802b5
-Author: Idol Chen <chenyuanqiang@admaster.com.cn>
-Date:   Wed Jun 22 17:04:12 2011 +0800
-
-    edited by idol
-
-commit e6037aac0a5ba98e1627024ea42de6b8161219fe
-Author: ZheChao Xu <xuzhechao@admaster.com.cn>
-Date:   Wed Jun 22 17:02:35 2011 +0800
-
-    foo file set
-
-commit 6b0df9c5fc9f504d97c1a93ac8068875b2b399bd
-Merge: e1ee905 4ace0c2
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Wed Jun 22 17:01:32 2011 +0800
-
-    xtt2
-
-commit e1ee905cf65d3a1fc928e47ed57fa710b688acbb
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Wed Jun 22 16:58:38 2011 +0800
-
-    xtt
-
-commit f209b2a46ed72dae19a482ef52c784c25f1e116d
-Author: Candy Cong <congbailing@admaster.com.cn>
-Date:   Wed Jun 22 16:54:43 2011 +0800
-
-    foo modified by Candy Cong
-
-commit 4ace0c21d29a76a1cb5d6274d2b3459d21809c0b
-Author: larry <lvguiqiang@admaster.com.cn>
-Date:   Wed Jun 22 16:50:43 2011 +0800
-
-    Signed-off-by: larry <lvguiqiang@admaster.com.cn>
-
-commit 6672eef21e5d3da6c7cfd59143076f6cd3c9808a
-Author: unknown <Candycong@.(none)>
-Date:   Wed Jun 22 16:46:59 2011 +0800
-
-    foo edited by Candy Cong
-
-commit c9b3f3b7b006036af1974ae308405956f6b2f965
-Author: Sunny Xiong <xiongtingting@admaster.com.cn>
-Date:   Wed Jun 22 16:28:25 2011 +0800
-
-    commit
-
-commit bfebe51a44d55be995c8455144c053be5fdad280
-Author: XieChao <xiechao@admaster.com.cn>
-Date:   Wed Jun 22 16:21:29 2011 +0800
-
-    XieChao commit hahaha
-
-commit d66af3dc0cf7468f5f8687a184addeca04b012a2
-Author: Yiyong Lu <luyiyong@admaster.com.cn>
-Date:   Wed Jun 22 16:14:27 2011 +0800
-
-    first commit
-
-commit 184edebfa14bc5daa0fb3723aaea885992d010ff
-Author: CC Wei <weiqinghang@admaster.com.cn>
-Date:   Wed Jun 22 15:54:21 2011 +0800
-
-    CC's first test in GIT world
-
-commit 1fee3937c2b7fb40c84838a52c9802449b80ec4f
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Wed Jun 22 15:06:27 2011 +0800
-
-    foo edited by mars
-
-commit 1e6ad8f80c52ae8d79d693a66307a12f3633b1e9
-Merge: 25e53db c12972c
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Tue Jun 21 15:54:20 2011 +0800
-
-    Merge branch 'feature/zyptest' into develop
-
-commit c12972c20bb5ed68c392c6b6c48082e6fa30b427
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Tue Jun 21 15:51:46 2011 +0800
-
-    小修改
-
-commit 38ced0fafb3f1dcdc6e3b3ece0dfeb07ae7da3cd
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Tue Jun 21 15:36:16 2011 +0800
-
-    new line
-
-commit 25e53db2cecfdde0648f3870ebe11f421319b7cc
-Merge: f001f2c 37b3572
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 14:23:28 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit f001f2c020f78c3facd21a0b85836b4bf6509432
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 14:16:07 2011 +0800
-
-    modify git-who 去掉失误的修改
-
-commit 37b357259cd95adc329fe383e052b71761a37478
-Merge: 931af59 761650f
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 14:08:32 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 761650f3f27917eedb5bd2a34cd00dad28ec12e4
-Merge: f52185e 9abdd5e
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 14:05:49 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 931af59d49de480544a6ee0f504c1389692589f5
-Merge: fd47207 36024ee
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 14:05:43 2011 +0800
-
-    解决冲突
-
-commit 9abdd5eb120647067ad6b6668656afe590fe4fce
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Fri Jun 17 14:04:57 2011 +0800
-
-    rm git-log by gjy
-
-commit fd47207471fff99163691c0f2b9838afc16d58ee
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 14:04:11 2011 +0800
-
-    重新cherery-pick
-
-commit 36024eee3f133d461a273a28c8907f642777efd5
-Merge: 2afc179 68a8bb7
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Fri Jun 17 13:54:52 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 2afc17964973dd1b047d34e103efcf2c31f0716d
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Fri Jun 17 13:52:47 2011 +0800
-
-    删除测试文件
-
-commit 68a8bb78d43d1557c6ee0583e9e73fbfb3470408
-Merge: 13a033f 8d8e492
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Fri Jun 17 13:52:06 2011 +0800
-
-    Merged conflict
-
-commit 13a033f909f967adaf4c14fc02a40d89d1ea3b6c
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Fri Jun 17 12:58:16 2011 +0800
-
-    Added committer who changed responding line
-
-commit 2abc6e90c214197c1a000e544219c4379eb08893
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Fri Jun 17 12:54:12 2011 +0800
-
-    Added command statement to find who changed line 5 of foo
-
-commit 8d8e492002c4340093efad6064489c60aba545fb
-Merge: b897b1b 236fc34
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Fri Jun 17 12:45:15 2011 +0800
-
-    解决pull 的冲突
-
-commit b897b1b19c211dfbdc4d885470d6c69e1d8eef09
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Fri Jun 17 12:43:08 2011 +0800
-
-    合并 git-who
-
-commit f52185e6cd4b0e9b2199d4de41101c5a469150c8
-Merge: 046f7d0 236fc34
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 12:10:22 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 236fc3480daded1c0f4db2ccb75c714a5af9d420
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 11:58:47 2011 +0800
-
-    blame 参数没有空格
-
-commit 50235bcd7cfa01a726ddcaebcf36103e93eea98a
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Fri Jun 17 11:44:02 2011 +0800
-
-    rm feature01
-
-commit 0cc66ed2626d51ea0ae20366522acf90af1895d3
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Fri Jun 17 11:40:17 2011 +0800
-
-    test feature01
-
-commit 046f7d070efffb193f629755477d7406beb26f9e
-Merge: 794b2eb f3a9eef
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 11:39:00 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 794b2ebc09efa2daa00a8ce7378075b06fb7991a
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 11:38:34 2011 +0800
-
-    submit modify git-who
-
-commit f3a9eef25800d2c07d4f62e460c26465319ca847
-Merge: a3983f7 a3686b9
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 11:35:46 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit a2c2ce53d747b3c94a5cf43a96a6e90a76ddef68
-Merge: f0d8d22 a3686b9
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Fri Jun 17 11:35:37 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit a3983f778fbae8c803ba968c01647c6f8d9b406d
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 11:35:23 2011 +0800
-
-    cherry-pick 冲突
-
-commit a3686b9587e25f79942797c60c839c272d6449df
-Merge: 1c3a2a8 ea18fcf
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 11:31:46 2011 +0800
-
-    再一次解决冲突in zhangjx
-
-commit 1c3a2a8d7ad5a5170f417f10562bdd45424c59fb
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 11:28:28 2011 +0800
-
-    解决冲突in git-config
-
-commit 255dfd549449437cc836868eb953db1414c14a78
-Merge: 4616a12 5c92f2d
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 11:28:11 2011 +0800
-
-    解决冲突
-
-commit ea18fcf43062c419396311b0edbddaa1d1f09968
-Merge: ef77aba 5c92f2d
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Fri Jun 17 11:25:38 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit ef77aba6e799ab26f844244a365c686b979f401b
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Fri Jun 17 11:24:31 2011 +0800
-
-    Comments from Hudie
-
-commit 5c92f2d288224c5bb7aa4ac1d048636c5ac26fbd
-Merge: 5e17e71 33d4dbc
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Fri Jun 17 11:22:34 2011 +0800
-
-    处理冲突
-
-commit 52b12b78bd72c68667628de291523968991c0594
-Merge: cc6bd1c 2775470
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 11:19:49 2011 +0800
-
-    merge two times in zhangjx
-
-commit 4616a1234c69a649e327985b1db3e6d3b56f69d6
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 11:14:48 2011 +0800
-
-    解决冲突
-
-commit 33d4dbc832bdd527c48ac7c73b9288334f79d4ce
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 11:13:39 2011 +0800
-
-    解决pull develop冲突
-
-commit 3901e981761c41d81e7f80df3c75bc01d119ab41
-Merge: 8b67a1a 2775470
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 11:12:29 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 5e17e719c1b149d7f0b00299bc90776b1198a160
-Merge: 0184a1f 4d12c37
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Fri Jun 17 11:12:16 2011 +0800
-
-    处理冲突
-
-commit 8b67a1a208f1a8f807995f1651a1d13f93d68c75
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 11:10:53 2011 +0800
-
-    合并个人分区文件到develop分区
-
-commit 0184a1fc2c6103b58f3a94a66f606b9bce3cae62
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Fri Jun 17 10:52:46 2011 +0800
-
-    add git-who
-    (cherry picked from commit ab5736c6ba00d1f7d6c0366a33125ab9cd802fa1)
-
-commit 2775470559828e11d001829e6838390d9abd021b
-Merge: 98c88f8 321c173
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Fri Jun 17 10:29:04 2011 +0800
-
-    edit #@gongjingying
-
-commit cc6bd1cb2fc44fae63c284238a78ed91488ed0e4
-Merge: 54662f2 7eaf57d
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 10:28:50 2011 +0800
-
-    merge git-who in zhangjx
-
-commit 321c173d4aefefdf38a0482f47e13fb9bd790453
-Merge: e8947e2 4d12c37
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 10:08:18 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit e8947e2dd77b38895b983b2e63bce859c4672605
-Merge: 566f66a b40a5d6
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 10:07:00 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 4d12c372b9d38f6cfc12712baf2f492188f095bd
-Merge: b40a5d6 4729f5f
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Fri Jun 17 10:06:01 2011 +0800
-
-    merge from master
-
-commit 566f66a6c6b011932f3e3499f619d01047eb37ff
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 10:03:37 2011 +0800
-
-    把blame结果换成语句
-
-commit 4729f5ff68a97a3028ed563d82a59b952deef3d7
-Merge: db8d905 a342640
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Fri Jun 17 10:01:29 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-
-commit 603a43d5a59c5b2fcffeaa4255b448e181a31005
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Fri Jun 17 09:59:29 2011 +0800
-
-    change 5th line of foo
-
-commit b40a5d6458472fcf8e7a3cc543ef0ce9d1cf6778
-Merge: 64b24f6 54662f2
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Fri Jun 17 09:57:02 2011 +0800
-
-    解决冲突
-
-commit 3abc782f7a567a4d3f5b930dcfca74a7aa46c5fa
-Merge: ade3976 54662f2
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Fri Jun 17 09:53:42 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 54662f2311c19d77150b6afb640153fe1f2934d7
-Merge: 58fa928 57ddabd
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Fri Jun 17 09:38:11 2011 +0800
-
-    merge git-who in zhangjx
-
-commit 57ddabd2bc64f77769c611a16c3724f160c3acf8
-Author: Baoliang Zhang <zhangbaoliang@admaster.com>
-Date:   Fri Jun 17 09:27:56 2011 +0800
-
-    添加查询行修改命令
-
-commit 98c88f87207b338ab22c95bf4f0c92e88a848e65
-Merge: 4f15ebd c7ca2c1
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Fri Jun 17 09:27:54 2011 +0800
-
-    git-who conflict solvd by gjy
-
-commit db8d905336ac6598ff2d14ccc2f48e62d93eb0d7
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Fri Jun 17 09:02:29 2011 +0800
-
-    amend exercise 3 with tech review required
-
-commit c7ca2c18112b058c1946581139155fea5e62b5a5
-Merge: d6dd10b 884fa02
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Fri Jun 17 05:23:42 2011 +0800
-
-    Merge branch 'tmp' into develop。日，我特么容易么我！
-    
-    Conflicts:
-    	git-who
-
-commit 884fa0228661735146f86f34abf803f0c86bdf33
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Fri Jun 17 05:22:42 2011 +0800
-
-    打补丁
-
-commit 24ed595e9954d190198e9046b8a8148fe8bd2280
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Fri Jun 17 03:23:33 2011 +0800
-
-    make a mark at the end of the only line
-
-commit bed3dc13ba7e7a54020fd722d17184d66f89236d
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Fri Jun 17 03:22:24 2011 +0800
-
-    annotate vs blame
-
-commit 64b24f64aef4fe22062ae30393b7471cdf7098d4
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:26:27 2011 +0800
-
-    change again
-
-commit d6dd10bbc3a59a65d33db0a6cc5b1eb8df447af8
-Merge: 289c816 84c6bf0
-Author: He Li <lihe@admaster.com.cn>
-Date:   Thu Jun 16 20:25:24 2011 +0800
-
-    prepare to push
-
-commit ce018b6d694a9844c02a4afc9e51c787d9da34f9
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:25:05 2011 +0800
-
-    change
-
-commit 7eaf57d348c47cd1f4f368787d2e05d36e83b6cc
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:22:42 2011 +0800
-
-    丢了#@zhaoyupei
-
-commit 33a3be317e06eb4c78bb5dcce97ed6eb56624011
-Merge: 95e65b0 84c6bf0
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:21:04 2011 +0800
-
-    解决冲突，发现新问题
-
-commit 289c8161566010ac69571ef6fa6af6238c7f646e
-Author: He Li <lihe@admaster.com.cn>
-Date:   Thu Jun 16 20:14:50 2011 +0800
-
-    add git-who
-
-commit 58fa9289a61af075fcd8d639fe7f2dcda9d97b97
-Merge: 5e05db5 84c6bf0
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Thu Jun 16 20:17:15 2011 +0800
-
-    modify git-who in zhangjx
-
-commit 95e65b03a446ebd51220b4a055fc95238aa69cf6
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:15:33 2011 +0800
-
-    重新cherry-pick git who文件
-
-commit 9cbc27e65adf19a68932676e513eb130e742d3fe
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:13:41 2011 +0800
-
-    edit again again
-
-commit 31d14c37868e68f0b3c45f24f19af33742f0f86d
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:12:59 2011 +0800
-
-    重新修改git-who
-
-commit 4f15ebd5f869c90cec11b716dec8f5207ce8c8b7
-Merge: 4167ef5 84c6bf0
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 20:11:38 2011 +0800
-
-    git who conflict
-
-commit b02a1329461e15f2b2cff5b2adc8637c8c169211
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:11:18 2011 +0800
-
-    重新修改git-who
-
-commit 8e491bb7b13ed0e9a4b47048659eb9225d6bbf46
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 20:08:29 2011 +0800
-
-    修改git who 之前的内容错了
-
-commit 5e05db55751dd46dc04f05ac1eb0c36bcf3165d4
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Thu Jun 16 20:03:23 2011 +0800
-
-    apply develop
-
-commit e7ecc8f21b06cd80770962db472e9ed82c8d3567
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 19:51:37 2011 +0800
-
-    解决冲突，合并zhaoyupei分支下的git-who
-
-commit 6a08437239b73a39e6ab2585c8c76f8a988d83f4
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 19:49:05 2011 +0800
-
-    edit git-who
-
-commit ade39762ecf069a0818c6c7f77368a09916537c8
-Merge: 84c6bf0 8c05006
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 19:41:52 2011 +0800
-
-    Merge branch 'sunhaoyan' of github.com:admaster/git-test into develop
-
-commit f8ed2e47f5ae873e659a27c2613d3c9eadd61160
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 19:35:00 2011 +0800
-
-    添加git-who文件
-
-commit 4167ef54461bfffe4b54213c13edb9d426652edf
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 19:01:10 2011 +0800
-
-    gongjingying added #@[gongjingying] at the end of every line
-
-commit 1f4f69695dadc70289e594e6c7771b300118da47
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 18:58:17 2011 +0800
-
-    commit the git-who
-
-commit 84c6bf00f471ff2275642ffceaa74d535c6086a6
-Merge: fd34e6a c0ffb9e
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 18:35:36 2011 +0800
-
-    再一次解决冲突
-
-commit fd34e6a59ae757a7de947a966165ae01d10c738c
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 18:23:56 2011 +0800
-
-    add #@sunhaoyan
-
-commit 78e5d77e0505d90a2abe9f7983a60a6e11a81c47
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 18:18:34 2011 +0800
-
-    add file git-who
-
-commit 8c05006ea41494f05edf03c158f9e4c744be9721
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 18:23:56 2011 +0800
-
-    add #@sunhaoyan
-
-commit 1cac677fb14690aaca101cdbfc179cc880c4a995
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 18:18:34 2011 +0800
-
-    add file git-who
-
-commit a3426403fd7630af131bdc0e76c6548a94609f07
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 18:13:34 2011 +0800
-
-    rm local file git-config,which is not in master branch
-
-commit fa8308dbb3e7d54fc7ffcceeefbd6bdeada44357
-Merge: fc6c654 97ba364
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 18:10:19 2011 +0800
-
-    confilict with local file, commit again
-
-commit fc6c654efbd809d095df9e8f6f9a682c1e2def6f
-Merge: 2e8b047 9e8f83e
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 18:07:28 2011 +0800
-
-    3 files modified, i need commit!
-
-commit 7ed8fd71f1e8926b52196dc7dd9e0fda657bddca
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 18:06:50 2011 +0800
-
-    add file git-log
-
-commit 12b0e60cb7ecb4660e44ebc606fd4861833505dc
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 18:04:12 2011 +0800
-
-    添加git-log文件，记录tonsh的本地develop分支log
-
-commit da196820f4f670ef153ac3a59617725817378e8b
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Thu Jun 16 18:01:58 2011 +0800
-
-    process conflict
-
-commit 97ba3647262b5b230a8dbb4b51c087297ca9b8ba
-Merge: 716e776 9e8f83e
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 18:01:18 2011 +0800
-
-    conflict again gjy solved
-
-commit e4151ecb0cea815fde5d91bcd90d79ceed877b8a
-Merge: f2b10c1 268bb25
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Thu Jun 16 17:49:56 2011 +0800
-
-    merge origin
-
-commit 9e8f83e86e7f5674235b9a5ccfef7a1db4ad731f
-Merge: 70ed042 268bb25
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 17:38:58 2011 +0800
-
-    解决master分支冲突
-
-commit c0ffb9eeb648f9a3d95d9ed1b670a22b7f9924e3
-Merge: de304b7 7cd5a5c
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 17:33:38 2011 +0800
-
-    解决develop 下foo文件冲突
-
-commit 5ada5cd4a8c9cabde197c1b331775c9830eb35cb
-Merge: 46cb9de 268bb25
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 17:32:18 2011 +0800
-
-    解决冲突
-
-commit de304b7b2c9327e448b46519ceaf26ec91b4f80c
-Merge: 45cf9d7 268bb25
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Thu Jun 16 17:26:37 2011 +0800
-
-    解决foo文件冲突
-
-commit 7cd5a5c94951ddace7124ed39b9852fe3f60a980
-Merge: 9e2c41b 268bb25
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 17:17:58 2011 +0800
-
-    merge from master
-
-commit 268bb25751b5c58e5803b64fe1885e54f8297772
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 17:15:37 2011 +0800
-
-    add exercise 3
-
-commit 9e2c41b94db941c5c8b5ef4f28722e35b66cd45b
-Merge: 85433f5 08dd674
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 16:12:14 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 85433f5a5f0542ed49fc816ad0929d6909557873
-Merge: 46cb9de 333eb0e
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 16:11:04 2011 +0800
-
-    Merge branch 'feature/demo' into develop
-
-commit 333eb0e43aff29b024fac47f5a2d13ea50e378c5
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 16:10:53 2011 +0800
-
-    yet another line for non fast forward
-
-commit 75a75babc9ee67fd1601a3f415a92e67de52308c
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 13:47:02 2011 +0800
-
-    try to non-fast-forward
-
-commit f0d8d22177558a7f92d04b6f10c1b3aff3754dba
-Merge: ec07f18 08dd674
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Thu Jun 16 13:33:31 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 716e7763c0d6da44c9f7abea26f9144ec38a00b3
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 11:51:41 2011 +0800
-
-    gongjingying's git conifg
-
-commit 08dd6743b4bbc7dd947a14c92862d6e5c1242d80
-Merge: cf0f73d 46cb9de
-Author: Bin Wu <wubin@admaster.com.cn>
-Date:   Thu Jun 16 11:50:07 2011 +0800
-
-    Merge branch 'develop', remote branch 'origin/develop' into develop
-
-commit cf0f73d70a5bffdf8a027596497b92b0019228d1
-Author: Bin Wu <wubin@admaster.com.cn>
-Date:   Thu Jun 16 11:36:55 2011 +0800
-
-    添加了一条新闻记录
-
-commit 2e8b047bd0c121c8d6341111aab76135ed416254
-Merge: 7119abc 46cb9de
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 11:34:52 2011 +0800
-
-    Merge branch 'git-second'
-
-commit 46cb9de4b597b8f425a98856d78bdabe4721f311
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Thu Jun 16 11:33:50 2011 +0800
-
-    gongjingying add news on git-second
-
-commit 609ed50316706c826979f46830ba865728ddfb60
-Merge: de585ad f2b10c1
-Author: Baoliang Zhang <zhangbaoliang@admaster.com>
-Date:   Thu Jun 16 11:20:09 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit f2b10c16e68942a359d6ed274e8d6a5e27c1ecba
-Merge: 4d44417 396eb40
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Thu Jun 16 11:13:33 2011 +0800
-
-    process conflicts
-
-commit de585add9a4ef819879a66269d4657b0a966d289
-Merge: 3943705 89a88ad
-Author: Baoliang Zhang <zhangbaoliang@admaster.com>
-Date:   Thu Jun 16 11:00:22 2011 +0800
-
-    合并代码
-
-commit 3943705817744c4abb965954af03d2cebe6fcc12
-Author: Baoliang Zhang <zhangbaoliang@admaster.com>
-Date:   Thu Jun 16 10:57:43 2011 +0800
-
-    添加新闻文件
-
-commit 4d444171a41052cdda568a1d3de6a99cc10e66de
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Thu Jun 16 10:56:44 2011 +0800
-
-    add a big news
-
-commit 3f3b68d101566fdfd98e189ea7b55a0cc31632af
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 10:45:32 2011 +0800
-
-    important notice
-
-commit f31be0c6da8a5e500341f3d43f1f29389f9e9500
-Merge: c80e4ee 8e82325
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 10:44:37 2011 +0800
-
-    merge from peter
-
-commit ec07f183f5aa3542b9a690d214c933c52d2b1396
-Merge: 8f0fee6 396eb40
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Thu Jun 16 10:38:09 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 396eb4084c7124384cdd8cd55319d4576df6d39f
-Merge: 3a4cf5b 89a88ad
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 10:33:18 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit 99c1a59e70485868d740f584b3650f7604cf7c8c
-Merge: 8e82325 c34bc32
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Thu Jun 16 10:28:31 2011 +0800
-
-    Merge remote branch 'origin/develop' into develop
-
-commit 3a4cf5b6ac42b158eaee573f9cbe154b16661eec
-Merge: c34bc32 c80e4ee
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Thu Jun 16 10:21:27 2011 +0800
-
-    Merge from master
-
-commit 8f0fee6a1bce723e1facba6c9f263bb5a0d810b2
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Thu Jun 16 10:18:25 2011 +0800
-
-    做个测试
-
-commit cbcefbf71beeccf736e6bd07e6f2bef7c5c67f86
-Merge: b9ffa08 89a88ad
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Thu Jun 16 09:54:28 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit b9ffa083da5530c00247dc3cddc26433040652e6
-Merge: 88ebb1b c34bc32
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Thu Jun 16 09:53:21 2011 +0800
-
-    误操作删除的文件，恢复
-
-commit 8e82325cdcb13040edcc3837eea5a7f64648f6ad
-Author: Peter Zhang <zhangxingnan@admaster.com.cn>
-Date:   Thu Jun 16 09:52:58 2011 +0800
-
-    add one line
-
-commit 89a88add7856f733b5bc45bfa4da43e63739adf8
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 09:50:40 2011 +0800
-
-    add message
-
-commit 29481a697418593d3846f2821ec090972cecde80
-Merge: 19732b1 c34bc32
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Thu Jun 16 09:47:02 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit c34bc32ea1f8b5059c21e9163c5561f0f4a1de14
-Merge: 0041a85 f518bcd
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Wed Jun 15 19:28:19 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit f518bcd4978715e78bbb0bf162474ffdc4c50a42
-Merge: 29e547d 2be183d
-Author: He Li <lihe@admaster.com.cn>
-Date:   Wed Jun 15 19:11:22 2011 +0800
-
-    merge keyi
-
-commit 29e547da702334454104394038533c4574bf01f5
-Merge: a54cf41 e1d7ca5
-Author: He Li <lihe@admaster.com.cn>
-Date:   Wed Jun 15 19:07:47 2011 +0800
-
-    merge
-
-commit 0041a855e7a553fbdaebb542f97703681cd207f6
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Wed Jun 15 19:04:51 2011 +0800
-
-    换一句slogan.
-
-commit 01184b16bc490413a8c88c3ca12f2d8fd438121b
-Merge: f990957 a54cf41
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Wed Jun 15 18:51:45 2011 +0800
-
-    Merge remote branch 'origin/develop' into develop
-
-commit 88ebb1b34778f90f6b7860be1423a787ecc59043
-Merge: dd979e0 2be183d
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Wed Jun 15 18:51:27 2011 +0800
-
-    临时删除
-
-commit dd979e043034154cde5c7921496488a9722940d9
-Merge: 38113e0 a54cf41
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Wed Jun 15 18:47:21 2011 +0800
-
-    解决冲突
-
-commit 2be183df9b9460a8b21fb8bab56f6310f96d1427
-Merge: e1d7ca5 a54cf41
-Author: Bin Wu <wubin@admaster.com.cn>
-Date:   Wed Jun 15 18:44:26 2011 +0800
-
-    Merge branch 'develop', remote branch 'origin/develop' into develop
-    Nothing changed,but show conflict.
-    Conflicts:
-    	git-rocks
-
-commit 7119abccd34bf2384fde00ca4388ccbe3e11f1e2
-Merge: 67733dc 11d65ed
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Wed Jun 15 18:40:01 2011 +0800
-
-    gjy branch solve confict
-
-commit 11d65edcb9a13da4919be791a0e90192eff11ca4
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Wed Jun 15 18:24:09 2011 +0800
-
-    merge conflict
-
-commit e1d7ca5b4235ff611b1497a823cd8981850e09b9
-Author: admaster <admaster@admaster-blade.(none)>
-Date:   Wed Jun 15 18:18:31 2011 +0800
-
-    This is for feature branch.
-
-commit 67733dc8c4d710977194fd96f525da7b5dbc960e
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Wed Jun 15 18:10:53 2011 +0800
-
-    gjy branch for gjy_01
-
-commit 02600056c043b8cdaf132b3f0b21bfb31bf5b909
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Wed Jun 15 18:08:20 2011 +0800
-
-    gjy branch test
-
-commit a54cf41fe74d77c5c0e74539a23d7b1fa83174da
-Author: He Li <lihe@admaster.com.cn>
-Date:   Wed Jun 15 18:01:37 2011 +0800
-
-    lihe send something
-
-commit 57acad5be3e141755b26c8f1f58a8bda0c6931e8
-Merge: f990957 38113e0
-Author: admaster <admaster@admaster-blade.(none)>
-Date:   Wed Jun 15 17:49:24 2011 +0800
-
-    Merge branch 'develop' of github.com:admaster/git-test into develop
-
-commit c80e4eef633356670ac8ca74a56ab69ad8286a9a
-Merge: 72ef8b7 f990957
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Wed Jun 15 17:48:55 2011 +0800
-
-    gong conflict solved
-
-commit 72ef8b7fffa6b97004b9ffd5e535117f3520beb0
-Author: Jingying Gong <gongjingying@admaster.com.cn>
-Date:   Wed Jun 15 17:24:35 2011 +0800
-
-    gongjingying modifies name and email
-
-commit 19732b138ee7b16cee74736fed4fa973cf2bfa6a
-Merge: 38113e0 f990957
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Wed Jun 15 17:11:47 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test into develop
-
-commit f990957bccdb8411e2a6bebc6c35fb0444676e48
-Merge: 055a04f 3ca6abd
-Author: Bin Wu <wubin@admaster.com.cn>
-Date:   Wed Jun 15 16:59:21 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-    
-    Conflicts:
-    	foo
-    and fixed it.
-
-commit 055a04f71820663ef586858ee1ad60620ce0a585
-Author: Bin Wu <wubin@admaster.com.cn>
-Date:   Wed Jun 15 16:55:15 2011 +0800
-
-    The first homework.and append something.
-
-commit 0463c561b22a14f040b6a18237e60f2bcd5957eb
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Wed Jun 15 16:52:52 2011 +0800
-
-    sunhaoyan git config info
-
-commit 38113e0555e2e474a25cb20d4f6458cdc33ccd0a
-Merge: 6de3742 b7dafba
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Wed Jun 15 16:47:54 2011 +0800
-
-    解决冲突
-
-commit b7dafba5064dad2e4338b078b6962bb37cdaa98d
-Merge: f97cbdf 45cf9d7
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Wed Jun 15 16:45:07 2011 +0800
-
-    add news
-
-commit 6de374273e82862c2107cfeb8f370e579f863d96
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Wed Jun 15 16:40:26 2011 +0800
-
-    add file git-second
-
-commit f97cbdf2723756a0099cea75257e4dd489ca72d9
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Wed Jun 15 16:15:32 2011 +0800
-
-    add news
-
-commit ba90c4655b06305821f68f7ae7f0f57ca2b9a33f
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Wed Jun 15 15:31:30 2011 +0800
-
-    添加git-config配置文件
-
-commit 45cf9d7cc585d05183a75b6fc3bb024cbaec9bd2
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Wed Jun 15 15:25:25 2011 +0800
-
-    发表重要讲话解决冲突后的应该位于NBA新闻后面
-
-commit 7fbc86810f09a617a11d4dab819646815b3da812
-Merge: 39febfc 5029915
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Wed Jun 15 15:17:57 2011 +0800
-
-    解决冲突
-
-commit 39febfc051538626ef13f2975ae947fa77763954
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Wed Jun 15 15:10:33 2011 +0800
-
-    add new file git-rocks to git-second feature
-
-commit 70ed0423a4ae0ea8d3dafeed61823bd5a3df6565
-Merge: 1993f52 3ca6abd
-Author: Tonsh Zhao <zhaoyupei@admaster.com.cn>
-Date:   Wed Jun 15 14:31:49 2011 +0800
-
-    解决冲突
-
-commit 5029915bfd54f58878c21eb4a52810bf7ab0f9c2
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Wed Jun 15 14:31:28 2011 +0800
-
-    nba热点新闻
-
-commit 3ca6abd8a4cdb60ea430898aa651a2f99dfd6a3e
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Wed Jun 15 14:11:55 2011 +0800
-
-    add exercise 2
-
-commit bde938f765bec02f0b34b5e65e07a6820b9a8f9e
-Author: Baoliang Zhang <zhangbaoliang@admaster.com>
-Date:   Wed Jun 15 12:33:34 2011 +0800
-
-    修改姓名
-
-commit e0ecbf927ce344bb8845a7afe7b7cb71393e94dc
-Author: zhangbaoliang <zhangbaoliang@admaster.com>
-Date:   Wed Jun 15 11:43:14 2011 +0800
-
-    张保良的练习
-
-commit 80c8f63565140c10367f656f4b575d82ff3f624c
-Merge: b2a1969 33fcb3a
-Author: wubin <wubin@admaster.com.cn>
-Date:   Wed Jun 15 11:24:52 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-    
-    Conflicts:
-    	foo
-    
-    	modified:   foo
-
-commit b2a19698c6d10fe964fe9740b3671f9e828d9e27
-Author: wubin <wubin@admaster.com.cn>
-Date:   Wed Jun 15 11:18:06 2011 +0800
-
-    	modified:   foo
-
-commit 1993f52bc82c99efcfca044d05fea9caebdc7f07
-Author: yupei Zhao <zhaoyupei@admaster.com.cn>
-Date:   Wed Jun 15 10:57:43 2011 +0800
-
-    zhaoyp modify FAQ line
-
-commit 33fcb3a78cdf878501e7d7e7211c0f23e5d2d1e8
-Merge: 42cc3fc cc6ec0f
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Wed Jun 15 10:43:28 2011 +0800
-
-    in zhangjx
-
-commit cc6ec0fa05fb283e8ed69dbee5d67cc514d51fd5
-Merge: c50be71 3b92d70
-Author: admaster <admaster@admaster-blade.(none)>
-Date:   Wed Jun 15 10:07:24 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-    
-    Conflicts:
-    	foo
-
-commit 42cc3fc7d5acda3047bbae8643b3f339c1790d06
-Author: Jiaxiang Zhang <zhangjiaxiang@admaster.com.cn>
-Date:   Wed Jun 15 10:02:46 2011 +0800
-
-    in aa
-
-commit c50be714f225705068ead764e3fd30d16ead1298
-Author: admaster <admaster@admaster-blade.(none)>
-Date:   Wed Jun 15 09:47:13 2011 +0800
-
-    Test.
-
-commit 3b92d70a13d6ec3863b449ff64d2dc2682f6e747
-Author: He Li <lihe@admaster.com.cn>
-Date:   Wed Jun 15 09:44:01 2011 +0800
-
-    try merge
-
-commit f6e78f71593a2be7c19c87d7f93145ba9d7e7e34
-Merge: 6d38984 4d64599
-Author: admaster <admaster@admaster-blade.(none)>
-Date:   Wed Jun 15 09:35:48 2011 +0800
-
-    Merge branch 'master' of github.com:admaster/git-test
-    
-    Conflicts:
-    	foo
-
-commit 3d60a0c95eba6f3d43c8d1da29e4c75e7f40cb6e
-Merge: 02a020a 939766f
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Tue Jun 14 20:28:49 2011 +0800
-
-    Merged
-
-commit 02a020a125945f2db83cb60ededfe7caccc67497
-Merge: 4dd89a6 4d64599
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Tue Jun 14 20:23:45 2011 +0800
-
-    Comment from Hudie
-
-commit 939766ffbb5b2f305f4a81fa6e87255f18a6f101
-Author: He Li <lihe@admaster.com.cn>
-Date:   Tue Jun 14 20:13:54 2011 +0800
-
-    lihe add somthing
-
-commit 4dd89a6e7e64baa06d1d77a7edb3ff1103da3aad
-Author: Hudie <ludanfeng@admaster.com.cn>
-Date:   Tue Jun 14 20:10:28 2011 +0800
-
-    Added one comment
-
-commit 6d389841853599f741124a7728361006a7a9dbee
-Author: admaster <admaster@admaster-blade.(none)>
-Date:   Tue Jun 14 19:23:56 2011 +0800
-
-    This is a test.
-
-commit 4d64599469026171762282a9b91b29e7326ba170
-Author: jingying Gong <jingyinggong@admaster.com.cn>
-Date:   Tue Jun 14 19:22:18 2011 +0800
-
-    gjy modified
-
-commit ebe65c8795269ee71b162472cac59d466ad109fa
-Author: yupei Zhao <zhaoyupei@admaster.com.cn>
-Date:   Tue Jun 14 18:51:50 2011 +0800
-
-    zhaoyp add faq in foo
-
-commit ef9bec97b97733e56f5c7525cf52dc749e8dc5c2
-Author: Haoyan Sun <sunhaoyan@admaster.com.cn>
-Date:   Tue Jun 14 18:42:10 2011 +0800
-
-    hello world
-
-commit 65610286a79b939185528bca28c748d6114ce0f6
-Author: Redstone Zhao <zhaoxiongfei@admaster.com.cn>
-Date:   Tue Jun 14 16:50:21 2011 +0800
-
-    again add line
-
-commit cc44b12767adff3097c82ab6944d9708713bfbb7
-Author: stonephp <stonephp@sp.(none)>
-Date:   Tue Jun 14 16:44:38 2011 +0800
-
-    test author:redstone
-
-commit 7283c1e08fa1219ea9036a7d661e5e8c2fd9d41b
-Author: Blade Wang <wangkeyi@admaster.com.cn>
-Date:   Tue Jun 14 16:41:28 2011 +0800
-
-    第一次提交。
-
-commit a67cf52d4de72468fe2598cd149cf381370661df
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Tue Jun 14 16:11:35 2011 +0800
-
-    add exercise 1
-
-commit 75a5a89061173e892999e98400e8ef78970849fc
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Tue Jun 14 15:34:03 2011 +0800
-
-    add some tips about TODO
-
-commit f449664bcbfefd939ce356dd8a3820d1df2d1833
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Tue Jun 14 15:28:26 2011 +0800
-
-    add quick start
-
-commit 84cd5f7a560473853fe3536cdccdc9f1af9e9d2c
-Author: Mars Cheng <chengxianfeng@admaster.com.cn>
-Date:   Tue Jun 14 15:14:40 2011 +0800
-
-    initial commit
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Larry Lv
+Sunny Xiong
+Sunny Xiong
+Sunny Xiong
+Candy Cong
+Sunny Xiong
+unknown
+Candy Cong
+Candy Cong
+Sunny Xiong
+Candy Cong
+Sunny Xiong
+Candy Cong
+unknown
+Yiyong Lu
+Idol Chen
+Idol Chen
+Idol Chen
+Idol Chen
+Idol Chen
+Idol Chen
+CC Wei
+Idol Chen
+CC Wei
+CC Wei
+CC Wei
+CC Wei
+CC Wei
+CC Wei
+Stone Shi
+Ivan Shen
+Ivan Shen
+Mars Cheng
+Idol Chen
+Idol Chen
+Candy Cong
+Candy Cong
+Candy Cong
+ZheChao Xu
+ZheChao Xu
+Mars Cheng
+ZheChao Xu
+ZheChao Xu
+Larry Lv
+Idol Chen
+Candy Cong
+Idol Chen
+ZheChao Xu
+Sunny Xiong
+Sunny Xiong
+Candy Cong
+larry
+unknown
+Sunny Xiong
+XieChao
+Yiyong Lu
+CC Wei
+Mars Cheng
+Tonsh Zhao
+Tonsh Zhao
+Tonsh Zhao
+Jiaxiang Zhang
+Jiaxiang Zhang
+Tonsh Zhao
+Jiaxiang Zhang
+Tonsh Zhao
+Jingying Gong
+Tonsh Zhao
+Redstone Zhao
+Redstone Zhao
+Hudie
+Hudie
+Hudie
+Redstone Zhao
+Redstone Zhao
+Jiaxiang Zhang
+Haoyan Sun
+Jingying Gong
+Jingying Gong
+Jiaxiang Zhang
+Jiaxiang Zhang
+Tonsh Zhao
+Redstone Zhao
+Tonsh Zhao
+Jiaxiang Zhang
+Jiaxiang Zhang
+Tonsh Zhao
+Hudie
+Hudie
+Peter Zhang
+Jiaxiang Zhang
+Tonsh Zhao
+Haoyan Sun
+Haoyan Sun
+Peter Zhang
+Haoyan Sun
+Peter Zhang
+Jingying Gong
+Jiaxiang Zhang
+Haoyan Sun
+Haoyan Sun
+Mars Cheng
+Haoyan Sun
+Mars Cheng
+Peter Zhang
+Tonsh Zhao
+Haoyan Sun
+Jiaxiang Zhang
+Baoliang Zhang
+Jingying Gong
+Mars Cheng
+Blade Wang
+Blade Wang
+Blade Wang
+Blade Wang
+Tonsh Zhao
+He Li
+Tonsh Zhao
+Tonsh Zhao
+Tonsh Zhao
+He Li
+Jiaxiang Zhang
+Tonsh Zhao
+Tonsh Zhao
+Tonsh Zhao
+Jingying Gong
+Tonsh Zhao
+Tonsh Zhao
+Jiaxiang Zhang
+Tonsh Zhao
+Tonsh Zhao
+Haoyan Sun
+Tonsh Zhao
+Jingying Gong
+Jingying Gong
+Haoyan Sun
+Haoyan Sun
+Haoyan Sun
+Haoyan Sun
+Haoyan Sun
+Jingying Gong
+Jingying Gong
+Jingying Gong
+Haoyan Sun
+Tonsh Zhao
+Peter Zhang
+Jingying Gong
+Peter Zhang
+Tonsh Zhao
+Tonsh Zhao
+Haoyan Sun
+Tonsh Zhao
+Mars Cheng
+Mars Cheng
+Mars Cheng
+Mars Cheng
+Mars Cheng
+Mars Cheng
+Redstone Zhao
+Jingying Gong
+Bin Wu
+Bin Wu
+Jingying Gong
+Jingying Gong
+Baoliang Zhang
+Peter Zhang
+Baoliang Zhang
+Baoliang Zhang
+Peter Zhang
+Mars Cheng
+Mars Cheng
+Redstone Zhao
+Mars Cheng
+Peter Zhang
+Mars Cheng
+Redstone Zhao
+Redstone Zhao
+Redstone Zhao
+Peter Zhang
+Haoyan Sun
+Haoyan Sun
+Blade Wang
+He Li
+He Li
+Blade Wang
+Blade Wang
+Redstone Zhao
+Redstone Zhao
+Bin Wu
+Jingying Gong
+Jingying Gong
+admaster
+Jingying Gong
+Jingying Gong
+He Li
+admaster
+Jingying Gong
+Jingying Gong
+Haoyan Sun
+Bin Wu
+Bin Wu
+Haoyan Sun
+Haoyan Sun
+Jiaxiang Zhang
+Haoyan Sun
+Jiaxiang Zhang
+Tonsh Zhao
+Tonsh Zhao
+Tonsh Zhao
+Tonsh Zhao
+Tonsh Zhao
+Redstone Zhao
+Mars Cheng
+Baoliang Zhang
+zhangbaoliang
+wubin
+wubin
+yupei Zhao
+Jiaxiang Zhang
+admaster
+Jiaxiang Zhang
+admaster
+He Li
+admaster
+Hudie
+Hudie
+He Li
+Hudie
+admaster
+jingying Gong
+yupei Zhao
+Haoyan Sun
+Redstone Zhao
+stonephp
+Blade Wang
+Mars Cheng
+Mars Cheng
+Mars Cheng
+Mars Cheng
