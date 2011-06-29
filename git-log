@@ -1,3 +1,9 @@
+commit 3d7f216c96b9b7c220395735f4b5ada115faa4e3
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Wed Jun 29 11:26:30 2011 +0800
+
+    modified git-log
+
 commit 22f14534ed6440b8c91cb63815be352753ea346b
 Merge: 453df66 b7b0948
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
