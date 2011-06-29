@@ -1,4 +1,25 @@
-<<<<<<< HEAD
+commit 22f14534ed6440b8c91cb63815be352753ea346b
+Merge: 453df66 b7b0948
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Wed Jun 29 11:23:37 2011 +0800
+
+    Merge branch 'lvguiqiang' into develop
+    
+    Conflicts:
+    	git-log
+
+commit 453df6609ae580cfbac987500c5ab78efe677fc1
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Wed Jun 29 11:18:45 2011 +0800
+
+    for rebase
+
+commit b7b094849860329fadceae041471312e0a6a391d
+Author: Larry Lv <lvguiqiang@admaster.com.cn>
+Date:   Wed Jun 29 11:16:07 2011 +0800
+
+    for rebase
+
 commit 9afa45e5f2ef8aea38e3b27fe32be47fc962de18
 Merge: c1e8fe5 c132470
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
@@ -28,8 +49,6 @@ Date:   Tue Jun 28 23:27:36 2011 +0800
 
     for gitignore
 
-=======
->>>>>>> lvguiqiang
 commit c132470183a8a43f5279343cbffc9dc8661e2e90
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
 Date:   Tue Jun 28 20:18:28 2011 +0800
@@ -42,15 +61,12 @@ Date:   Tue Jun 28 19:36:02 2011 +0800
 
     for gitignore
 
-<<<<<<< HEAD
 commit 32612c73d7ec1a0fccad3530263af0b361b23663
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
 Date:   Tue Jun 28 18:23:39 2011 +0800
 
     for commit
 
-=======
->>>>>>> lvguiqiang
 commit 5813822903ae9e3544cd4cf54f8e9ad36bb01386
 Merge: 7690079 0e15737
 Author: Larry Lv <lvguiqiang@admaster.com.cn>
