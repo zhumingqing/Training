@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 289f887a 5) are you OK!!yes,i am#@lvguiqiang
+=======
+289f887a 5) are you OK!!yes,i am#@lvguiqiang#@wanghan
+git blame foo -L 5,5#@wanghan
+>>>>>>> d7804bd... =wanghan's git-who
