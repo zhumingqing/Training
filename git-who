@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 289f887a 5) are you OK!!yes,i am#@lvguiqiang
+<<<<<<< HEAD
 =======
 289f887a 5) are you OK!!yes,i am#@lvguiqiang#@wanghan
 git blame foo -L 5,5#@wanghan
 >>>>>>> d7804bd... =wanghan's git-who
+=======
+git blame git-who -L 5,5#@wanghan
+>>>>>>> 934b4d2... =wnaghan's git-who
