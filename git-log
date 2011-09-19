@@ -1,3 +1,9 @@
+
+c0b823747049ae3c78b80ac3ea352d48fbe1c744 add a news
+ba7d709974812b59cb8f3d84bcf884d8c4fd85a9 Merge remote-tracking branch 'origin/develop' into develop
+fa1e6c139cd9881bfea03deb580b0b38b44adcde change foo file for a test
+
+
 74aa51af62e9c674b10e544e13b0a156ca1d86b9 =fot git-who foo 5L
 df558033c5972393e5484e686130284c000d44ae =for log oneline
 e6a4d73... =for git log --pretty=oneline develop >git-log
