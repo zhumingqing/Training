@@ -1,4 +1,8 @@
 
+wenhaiwen:
+git blame -L 5,5 develop foo
+fa1e6c13 (wen haiwen 2011-09-19 11:28:44 +0800 5) just a test
+
 95d83a50 (Mars Cheng 2011-06-22 18:18:56 +0800 5) this ia a good file#@wenhaiwen
 
 289f887a 5) are you OK!!yes,i am#@lvguiqiang
