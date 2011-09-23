@@ -1,6 +1,6 @@
-git blame -L 5,5 develop foo
+git blame -L 5,5 develop foo#@wenhaiwen
 
-289f887a 5) are you OK!!yes,i am#@lvguiqiang
-git blame git-who -L 5,5#@wanghan
+289f887a 5) are you OK!!yes,i am#@lvguiqiang#@wenhaiwen
+git blame git-who -L 5,5#@wanghan#@wenhaiwen
 
 
