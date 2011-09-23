@@ -1,3 +1,8 @@
+556b665d574c9b3dc4feb88b22e8668 wenhaiwen add git-rocks again
+fef602864f0ad2e29910227c3bfc926e10ad925a Merge remote-tracking branch 'origin/develop' into develop
+e1ad8ae2a072d949e1f552630aa8645000b64947 wenhaiwen chang foo
+
+
 74aa51af62e9c674b10e544e13b0a156ca1d86b9 =fot git-who foo 5L
 df558033c5972393e5484e686130284c000d44ae =for log oneline
 e6a4d73... =for git log --pretty=oneline develop >git-log
