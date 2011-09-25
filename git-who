@@ -1,3 +1,5 @@
+git blame -L 4,6 develop foo
+
 git blame -L 5,5 develop foo#@tangchang
 fa1e6c13 (wen haiwen 2011-09-19 11:28:44 +0800 5) just a test#@tangchang
 
