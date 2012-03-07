@@ -3,4 +3,4 @@ git blame -L 5,5 develop foo#@wenhaiwen2
 git blame git-who -L 5,5#@wanghan
 git blame -L 5,5 develop foo#@wangjinbo
 git blame -L 5,5 develop foo#@sunxiqiu
-git blame develop foo -L 5,5
+git blame develop foo -L 5,5#@xujianyong
