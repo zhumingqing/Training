@@ -1,6 +1,58 @@
+c32f807721180e69edfc3c935e3afa7895e2912c change git-config
+2c0bac85a09c7ed696819dea6df19a5b4dc31737 add news
+f01f66935ece232afacacab8da7a4360f9cff8cd Modify git-who file
+dffeda95cc9b7a8a30aeff2079448f98ac06870a Add a command that who changed the fifth line of foo on develop branch
+a60bdd77788caaafe6bd8f1cc41c65d24caf6940 Add a news
+08901e2858902701cf49df8226bd702819b41c58 add author info
+d12cba78a0d4e1dae54211f1c021916465fb778c add find the 5th line author command
+99bc8bf6e9161ff62b03cc0006664aa10656ae0c add news
+92b26a1f1bda07d1d3633d25deb184ce9a4c7657 test git flow feature
+1d876342fbfe510c14f46bd043b17686b5f5f276 add my name
+c4e3c7e5190d6623fc6fd75afc451b3e4a4f7575 find the one who modified line 5 in foo
+70dd84939475ff1f48f50d967cd6096463e04d9e delete a file
+cc86509996b6bcfadeec86c0faa35761e0c6f8fe add a new file
+aa304e68ecaa14c2846caf0e335824a9e2b9c36d exercise 2
+075acb76fb6a7962c5783cec1a66094eb0d961cb resotre correct content for git-who
+7d339c63f00ad7d2bebcbbb2aef1b958cf992005 cherry pick step 5 and 6 in practise 3 from branch tangchang:     b96529a awk '{print $0"#@tangchang"}' git-who  > git-who-temp && mv git-who-temp     7d66d29 the fifth line in branch develop was changed by who?
+86648c188c3ec51c4fdd41a1ed69be121bc5f01e modified the fifth line in foo on develop
+36cc3dd9e508dedf3236a2bc74965c60fd80bdd9 Merge branch 'feature/two' into develop
+f25c0a8952666c76644104e6755d93e59342acee feature/two second commit
+7758078d437a13e024f5b083244e3b935ab54977 feature/two first commit
+d656f2748a82d506cb38a778c0594c40f76d74d5 feature/one
+87587801f4db01df3d63760f0e21426ed731bae8 Merge branch 'develop' of github.com:admaster/git-test into develop
+aa9176e02e5f47cf8d4e823c9d0dee60a8f155df add author
+3b9a9f5246730fdad3d1a28b452f4875a6e13d5e add a command
+12ff307b3652b7efd9eb63e49a77f5be8a26e72b add #@tangchang at end of line.
+a00c88cc2ca9118f2766bda84e1d5faede4e16e4 git blame practise
+09e342b9a61e22fbd115c6d1c63322a831e95ef6 Merge branch 'develop' of github.com:admaster/git-test into develop
+7cc2111877d9519a54fb013695fd23433245f702 add author
+0acfd12047032c4d5c754b0f39a0e34954c57655 处理冲突
+62ed91139b6a95eb41cef701b3b37c7bbb6f4ac4 change file
+c67f572b58ca139c708d0de9cb211e586ba9fc75 modified git-rocks in feature/git-second
+282eb651027d9739aecf17c8a64a7f53b346b967 update file again
+9dad4957c356197d05550d434e51d94ed18ce1d1 wenhaiwen change git-who again
+17bc2a50a556b665d574c9b3dc4feb88b22e8668 wenhaiwen add git-rocks again
+fef602864f0ad2e29910227c3bfc926e10ad925a Merge remote-tracking branch 'origin/develop' into develop
+e1ad8ae2a072d949e1f552630aa8645000b64947 wenhaiwen chang foo
+a88dbe1ebb3a6e149fe4f54bf046082b8d3db120 update wenhaiwen branch's git-who file
+f03ee64d81f5c03a9d3bb6fb06fbeeb423d3aa75 add some info from the file of develop branch
+c0b823747049ae3c78b80ac3ea352d48fbe1c744 add a news
+ba7d709974812b59cb8f3d84bcf884d8c4fd85a9 Merge remote-tracking branch 'origin/develop' into develop
+fa1e6c139cd9881bfea03deb580b0b38b44adcde change foo file for a test
+ac2f818976345fc8b6eb7aa4a99245363936c9aa =wnaghan's git-who
+990b95a55edc04af30ae5a020d933ef14d40ecac =wnaghan's git-who
+9d76531755eb63f30931a1c7d0b099fa160ede05 =wanghan's git-who
+9a159137ad0e96feff18698a77a5911ad4da30de wanghan's git-rocks
+640c4104a38e57992094d4f4373dc3acfb70a36b Merge branch 'develop' of github.com:admaster/git-test into develop
+c71e5839bc6152ca7c31c36618978fb244c4aaea wanghan's foo
+78ec45f7f69a6e3806e99ed37731f8b02e69c9a1 update .gitignore filter ~*
+6b4001245fba2bde442a7a2a551a93cd24030ba9 .gitignore filter ~*
+51821d795955d53adf6b46e0f9ea55b8123780ea =for vi git-who add #@lvguiqiang
+17b54d39d342dd3c5f1e5b9d4e849efcf1b88b26 =for git blame -L 5,5 -s foo develop >git-who
+2a57a321ddcf9f758b8957f01f1c54ee233d3737 =for vi git-who add #@lvguiqiang
+27c63dab5f3e65a757f5721d182045d0e47717b1 =init
 74aa51af62e9c674b10e544e13b0a156ca1d86b9 =fot git-who foo 5L
 df558033c5972393e5484e686130284c000d44ae =for log oneline
-e6a4d73... =for git log --pretty=oneline develop >git-log
 34be4151bf4a154dbfb292d80f4b2abd0032f0ea =for foo 5L
 7d32ec7fcb6f20ff0ccb495c85777c4121046c48 for merge
 3d7f216c96b9b7c220395735f4b5ada115faa4e3 modified git-log
