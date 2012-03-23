@@ -1,17 +1,31 @@
+2c4722da5968f27c5d47a4f9963fe1742ba12ea1 Merge branch 'feature/liuxinghao' into develop
+4a02603f9267897c5150e6f98a23c852d73732e4 change git-who
+38fc2bf2d9cdb1e746f0e90b0073fdb45be9d087 change git-who
+d726f0db84ad359131b2eb76c30209560e459ac6 solve conflicts
 c32f807721180e69edfc3c935e3afa7895e2912c change git-config
 2c0bac85a09c7ed696819dea6df19a5b4dc31737 add news
+92de1b6263aa12eec5dd9cf4ba3e3c2cd5fbcdb2 change name
 f01f66935ece232afacacab8da7a4360f9cff8cd Modify git-who file
 dffeda95cc9b7a8a30aeff2079448f98ac06870a Add a command that who changed the fifth line of foo on develop branch
 a60bdd77788caaafe6bd8f1cc41c65d24caf6940 Add a news
 08901e2858902701cf49df8226bd702819b41c58 add author info
 d12cba78a0d4e1dae54211f1c021916465fb778c add find the 5th line author command
+e193a3beee1ac0837c1545248c90ed2a017fa2f0 Change the foo file
 99bc8bf6e9161ff62b03cc0006664aa10656ae0c add news
+deaa4254b925e524c78c3fd72f13bca7f16fbe26 sunxiqiu first commit
 92b26a1f1bda07d1d3633d25deb184ce9a4c7657 test git flow feature
 1d876342fbfe510c14f46bd043b17686b5f5f276 add my name
 c4e3c7e5190d6623fc6fd75afc451b3e4a4f7575 find the one who modified line 5 in foo
 70dd84939475ff1f48f50d967cd6096463e04d9e delete a file
 cc86509996b6bcfadeec86c0faa35761e0c6f8fe add a new file
 aa304e68ecaa14c2846caf0e335824a9e2b9c36d exercise 2
+fc0ccab33e506dc26e4966bc7469d11b05d15530 Bobo's first commit
+9ebba7c26c47e4101e9a495c099c970262c1453f second
+42d31038f39e92dd7c8d515e75e4e4cbc47b590c edited by gk
+e709404d3803dd539de301a299ed99a8e4cbc568 first commit
+a06b4f91c701480ba7ddfed95d6b397db17b063f second commit
+4232b8a8f2642bd57af41fba3a2f322eca551037 foo first commit
+38877f3fee8473eb72c3c6794dc82dadfed51866 first commited
 075acb76fb6a7962c5783cec1a66094eb0d961cb resotre correct content for git-who
 7d339c63f00ad7d2bebcbbb2aef1b958cf992005 cherry pick step 5 and 6 in practise 3 from branch tangchang:     b96529a awk '{print $0"#@tangchang"}' git-who  > git-who-temp && mv git-who-temp     7d66d29 the fifth line in branch develop was changed by who?
 86648c188c3ec51c4fdd41a1ed69be121bc5f01e modified the fifth line in foo on develop
@@ -19,6 +33,7 @@ aa304e68ecaa14c2846caf0e335824a9e2b9c36d exercise 2
 f25c0a8952666c76644104e6755d93e59342acee feature/two second commit
 7758078d437a13e024f5b083244e3b935ab54977 feature/two first commit
 d656f2748a82d506cb38a778c0594c40f76d74d5 feature/one
+0c827288c821e2aafc81a168158029d0d9fa559e modified foo: add Newton's quote.
 87587801f4db01df3d63760f0e21426ed731bae8 Merge branch 'develop' of github.com:admaster/git-test into develop
 aa9176e02e5f47cf8d4e823c9d0dee60a8f155df add author
 3b9a9f5246730fdad3d1a28b452f4875a6e13d5e add a command
@@ -29,11 +44,14 @@ a00c88cc2ca9118f2766bda84e1d5faede4e16e4 git blame practise
 0acfd12047032c4d5c754b0f39a0e34954c57655 处理冲突
 62ed91139b6a95eb41cef701b3b37c7bbb6f4ac4 change file
 c67f572b58ca139c708d0de9cb211e586ba9fc75 modified git-rocks in feature/git-second
+26877dc269a33b4303b55f30b21a7109b6d6ff53 Merge branch 'master' of github.com:admaster/git-test
 282eb651027d9739aecf17c8a64a7f53b346b967 update file again
 9dad4957c356197d05550d434e51d94ed18ce1d1 wenhaiwen change git-who again
 17bc2a50a556b665d574c9b3dc4feb88b22e8668 wenhaiwen add git-rocks again
 fef602864f0ad2e29910227c3bfc926e10ad925a Merge remote-tracking branch 'origin/develop' into develop
 e1ad8ae2a072d949e1f552630aa8645000b64947 wenhaiwen chang foo
+8849fe07f7654bb08c994c89782c4a898f97c80e Merge branch 'master' of github.com:admaster/git-test
+920346f10601925fc70494a3258114353e5d71f7 modified foo, for git practice 1
 a88dbe1ebb3a6e149fe4f54bf046082b8d3db120 update wenhaiwen branch's git-who file
 f03ee64d81f5c03a9d3bb6fb06fbeeb423d3aa75 add some info from the file of develop branch
 c0b823747049ae3c78b80ac3ea352d48fbe1c744 add a news
